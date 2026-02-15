@@ -1,13 +1,13 @@
 # fuel-spam-project
-⛽ Fuel Spam Detection Using Machine Learning
+**⛽ Fuel Spam Detection Using Machine Learning**
 
 Fuel Spam Detection is a Machine Learning system that identifies abnormal fuel consumption in vehicles to detect misuse, theft, or fraudulent fuel records.
 
-📌 Problem Statement
+**📌 Problem Statement**
 
 Fuel misuse and theft cause financial losses, inefficiency, and environmental impact. Manual monitoring is slow and unreliable. This system automates detection using ML models.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Detect abnormal fuel usage automatically
 
@@ -17,7 +17,7 @@ Reduce manual monitoring
 
 Improve detection accuracy
 
-💡 Motivation
+**💡 Motivation**
 
 Rising fuel prices
 
@@ -27,7 +27,7 @@ Need for automation
 
 Environmental concerns
 
-📊 Dataset Overview
+**📊 Dataset Overview**
 
 Synthetic vehicle fuel dataset
 
@@ -37,7 +37,7 @@ Structured and balanced
 
 Used for training & testing
 
-🧾 Dataset Attributes
+**🧾 Dataset Attributes**
 
 Feature	Description
 
@@ -49,7 +49,7 @@ Fuel Consumed - Fuel used in liters
 
 Distance Travelled -	Distance covered in km
 
-⚙️ Feature Engineering
+**⚙️ Feature Engineering**
 
 Mileage = Distance Travelled ÷ Fuel Consumed
 
@@ -63,7 +63,7 @@ Threshold (80% of average mileage)
 
 Mileage Drop detection
 
-🧹 Data Preprocessing
+**🧹 Data Preprocessing**
 
 Removed noise
 
@@ -73,7 +73,7 @@ Encoded fuel types
 
 Balanced dataset maintained
 
-🤖 ML Models Used
+**🤖 ML Models Used**
 
 Logistic Regression
 
@@ -87,7 +87,7 @@ Final Model: Logistic Regression
 
 Accuracy Achieved: 99.2%
 
-📈 Evaluation Metrics
+**📈 Evaluation Metrics**
 
 Accuracy
 
@@ -99,7 +99,7 @@ F1 Score
 
 Confusion Matrix
 
-✅ Conclusion
+**✅ Conclusion**
 
 Mileage drop is a strong indicator of fuel misuse. Machine learning improves accuracy and reliability of detection.
 
@@ -113,7 +113,7 @@ Monitoring dashboard
 
 Mobile/Web application
 
-👥 Team Members
+**👥 Team Members**
 
 Lakshmi Priya P V
 
